@@ -1,0 +1,3 @@
+[submodule "BombmanServer"]
+	path = BombmanServer
+	url = https://github.com/ha2ne2/BombmanServer.git

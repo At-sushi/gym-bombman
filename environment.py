@@ -1,4 +1,4 @@
-mport sys
+import sys
 
 import gym
 import gym.spaces
